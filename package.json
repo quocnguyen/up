@@ -1,0 +1,20 @@
+{
+  "name": "7upnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node loop.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^2.1.1",
+    "debug": "^4.1.1",
+    "google-drive-blobs": "^4.0.0",
+    "got": "^9.6.0",
+    "split": "^1.0.1",
+    "through2": "^3.0.1"
+  }
+}

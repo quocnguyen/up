@@ -1,0 +1,4 @@
+node_modules
+.envrc
+example
+input.csv
